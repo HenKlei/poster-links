@@ -1,7 +1,7 @@
 # Source codes
 
 - Adaptive model hierarchy applied to parametrized parabolic PDEs: [GitHub](https://github.com/ftschindler/paper-2022-certified-adaptive-RB-ML-ROM-hierarchy)
-- Adaptive model hierarchy applied to optimal control problems: [GitHub](https://github.com/HenKlei/ADAPTIVE-ML-OPT-CONTROL), [Zenodo](https://zenodo.org/records/...)
+- Adaptive model hierarchy applied to optimal control problems: [GitHub](https://github.com/HenKlei/ADAPTIVE-ML-OPT-CONTROL), [Zenodo](https://zenodo.org/records/10669855)
 
 # Papers
 
